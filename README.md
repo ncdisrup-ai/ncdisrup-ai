@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncdisrup-ai
-With more than 25 years of experience and with a holistic view  in sectors such as public administration, energy & utilities, logistics & postal, telecommunications and health,
+with more than 25 years of experience and with a holistic view  in sectors such as public administration, energy & utilities, logistics & postal, telecommunications and health,
 always enhanced by information technologies, believes in the disruption that knowledge areas sustained by Artificial Intelligence (AI) (NLP, Vision, Speech, Machine Learning, and NN&Transformers Architecture/LLM),
 Internet of Things (IoT), Digital Twins and Metaverse (Web3, AR/VR Immersive Experiences) are causing in the world. 
 After the management of delivery areas (>8M€/year), technological competences areas (>250 consultants), Energy Startups (with two pillars: Intelligent Network Monitoring with millions of events
